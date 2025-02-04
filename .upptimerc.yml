@@ -5,10 +5,12 @@ user-agent: wahitftry
 sites:
   - name: UBY
     url: https://uby.ac.id
+    method: GET
   - name: Siakad UBY
     url: https://siakad.uby.ac.id
   - name: TI UBY
     url: https://informatika.uby.ac.id
+    method: GET
   # - name: Test Broken Site
   #   url: https://thissitedoesnotexist.koj.co
   # - name: IPv6 test
