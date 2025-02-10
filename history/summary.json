@@ -16,7 +16,7 @@
     "timeMonth": 186,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2025-02-10": 106,
+      "2025-02-10": 108,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
       "2025-02-07": 1440,
@@ -30,7 +30,7 @@
     "url": "https://siakad.uby.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/siakad.uby.ac.id.ico",
     "slug": "siakad-uby",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -41,7 +41,9 @@
     "timeWeek": 836,
     "timeMonth": 836,
     "timeYear": 836,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-10": 0
+    }
   },
   {
     "name": "TI UBY",
@@ -60,7 +62,7 @@
     "timeMonth": 352,
     "timeYear": 352,
     "dailyMinutesDown": {
-      "2025-02-10": 106,
+      "2025-02-10": 108,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
       "2025-02-07": 1440,
